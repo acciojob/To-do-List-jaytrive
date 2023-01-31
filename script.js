@@ -8,6 +8,7 @@ function funcall(){
         todoList.appendChild(store)
 	}
     else alert("write something")
+	document.getElementById("newTodoInput").value=""
 
    /* let check=document.createElement("h3")
 	document.body.appendChild(check)
